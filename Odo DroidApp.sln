@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Odo Receiver", "Odo Receiver\Odo Receiver.jsproj", "{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Android.ActiveCfg = Debug|Android
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Android.Build.0 = Debug|Android
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Android.Deploy.0 = Debug|Android
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|iOS.ActiveCfg = Debug|iOS
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|iOS.Build.0 = Debug|iOS
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|iOS.Deploy.0 = Debug|iOS
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Android.ActiveCfg = Release|Android
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Android.Build.0 = Release|Android
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Android.Deploy.0 = Release|Android
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|iOS.ActiveCfg = Release|iOS
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|iOS.Build.0 = Release|iOS
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|iOS.Deploy.0 = Release|iOS
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{49C110A4-9F05-4A82-ADE8-DD8A98D38BFC}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E32CC0-C840-471A-AD7C-D6327B7E079A}
+	EndGlobalSection
+EndGlobal
